@@ -1,0 +1,93 @@
+body {
+    background-color: #E6E6E6;
+    font-size: 20px;
+    margin-bottom: auto;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+}
+
+.titles {
+    color: #005677;
+    background-color: #C4C4C4;
+    letter-spacing: 5px;
+}
+
+.no-list {
+    list-style-type: none;
+}
+
+h1 {
+    text-align: center;
+    padding: 15px;
+}
+
+footer {
+    background-color: #005677;
+    color: white;
+    text-align: center;
+}
+
+footer p {
+    display: inline-block;
+    font-weight: bold;
+    font-size: 1.25rem;
+}
+
+footer img {
+    margin: 0 10px;
+}
+
+.fotoPers{
+    width: 15%;
+    height: 15%;
+}
+
+.imgRedes{
+    width: 25px;
+    height: 25px;
+}
+
+
+.acerca{
+    color: white;
+    text-decoration: none;
+}
+
+.fotoPerfil{
+height: 300px;
+width: 300px;
+}
+
+.inicio{
+    text-align: left;
+    padding: 0px;
+    text-decoration: none;
+    color: aqua;
+    
+}
+
+.familia{
+    height: 500px;
+    width: 450px;
+}
+
+
+.centrados{
+
+    text-align: center;
+}
+
+.gustos{
+    text-align: center;
+    color: crimson;
+}
+
+.comentarios{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
